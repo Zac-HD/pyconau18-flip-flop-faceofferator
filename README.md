@@ -8,9 +8,9 @@ be removed from Ruby!
 
 This repo holds several such implementations, which (if it is accepted) will
 be presented in a collaborative lightening talk by @mermop (et al, 2018).
-If you would like to be part of this, submit an implementation and optionally
-come up on stage (again, *if* the talk is accepted).
+Entries closed at 15:30 on Sunday.
 
+[The presentation can be found here.](https://docs.google.com/presentation/d/1AzgjT8lulXQd_-LWAP2qStIF9LHFwpj3LGiwcd0Wjwk/)
 
 ### Sounds great!  Details?
 
