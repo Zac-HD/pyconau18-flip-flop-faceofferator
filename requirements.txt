@@ -1,0 +1,2 @@
+pytest
+hypothesis # not actually required, but I like it ;-)
