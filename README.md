@@ -10,7 +10,7 @@ This repo holds several such implementations, which (if it is accepted) will
 be presented in a collaborative lightening talk by @mermop (et al, 2018).
 Entries closed at 15:30 on Sunday.
 
-[The presentation can be found here.](https://docs.google.com/presentation/d/1AzgjT8lulXQd_-LWAP2qStIF9LHFwpj3LGiwcd0Wjwk/)
+[The presentation can be found here](https://youtu.be/rNkbmu4e3MA?t=2654) and [slides here](https://docs.google.com/presentation/d/1AzgjT8lulXQd_-LWAP2qStIF9LHFwpj3LGiwcd0Wjwk/)
 
 ### Sounds great!  Details?
 
